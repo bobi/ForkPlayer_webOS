@@ -1,0 +1,15 @@
+{
+  "id": "com.forkplayer.tv",
+  "version": "1.0.3",
+  "vendor": "alexkdpu",
+  "type": "web",
+  "main": "index.html",
+  "title": "Fork Player",
+  "icon": "logo_fork_80.png",
+  "largeIcon": "logo_fork_130.png",
+  "uiRevision": 2,
+  "resolution": "1280x720",
+  "iconColor": "#00b58a",
+  "bgImage": "fork_preview.jpg",
+  "splashBackground": "fork_preview.jpg"
+}
